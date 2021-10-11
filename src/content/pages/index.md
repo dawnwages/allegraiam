@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Allegra Stennett
 tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/as-2021-headshot.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
